@@ -14,6 +14,7 @@
 		CD173027205BBCA700BD9778 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD173025205BBCA700BD9778 /* LaunchScreen.storyboard */; };
 		CD17302A205BBCA700BD9778 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CD173029205BBCA700BD9778 /* main.m */; };
 		CD173032205BBD4F00BD9778 /* RegisterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD173031205BBD4F00BD9778 /* RegisterViewController.m */; };
+		CD9DA872205F427F00BA3DA9 /* LayoutView.m in Sources */ = {isa = PBXBuildFile; fileRef = CD9DA871205F427F00BA3DA9 /* LayoutView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		CD173029205BBCA700BD9778 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		CD173030205BBD4F00BD9778 /* RegisterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RegisterViewController.h; sourceTree = "<group>"; };
 		CD173031205BBD4F00BD9778 /* RegisterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RegisterViewController.m; sourceTree = "<group>"; };
+		CD9DA870205F427F00BA3DA9 /* LayoutView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LayoutView.h; sourceTree = "<group>"; };
+		CD9DA871205F427F00BA3DA9 /* LayoutView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LayoutView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				CD17301E205BBCA700BD9778 /* ViewController.m */,
 				CD173030205BBD4F00BD9778 /* RegisterViewController.h */,
 				CD173031205BBD4F00BD9778 /* RegisterViewController.m */,
+				CD9DA870205F427F00BA3DA9 /* LayoutView.h */,
+				CD9DA871205F427F00BA3DA9 /* LayoutView.m */,
 				CD173020205BBCA700BD9778 /* Main.storyboard */,
 				CD173023205BBCA700BD9778 /* Assets.xcassets */,
 				CD173025205BBCA700BD9778 /* LaunchScreen.storyboard */,
@@ -150,6 +155,7 @@
 				CD17301F205BBCA700BD9778 /* ViewController.m in Sources */,
 				CD17302A205BBCA700BD9778 /* main.m in Sources */,
 				CD17301C205BBCA600BD9778 /* AppDelegate.m in Sources */,
+				CD9DA872205F427F00BA3DA9 /* LayoutView.m in Sources */,
 				CD173032205BBD4F00BD9778 /* RegisterViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
